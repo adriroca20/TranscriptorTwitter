@@ -1,0 +1,279 @@
+Polkadot:  Hello everyone. We are just waiting for a few more speakers to join us and then we'll kick off here in a minute or so.
+PolkaNameSystem:  Just wrong quick test. Anyone can hear me?
+Polkadot:  Yes, we can hear you.
+PolkaNameSystem:  OK, great.
+The_JesusCrust:  You can hear me as well.
+Polkadot:  Yep.
+The_JesusCrust:  Perfect.
+InterlayHQ:  Alright, also doing a quick mic check.
+Polkadot:  Yes, you are good as well.
+subwalletapp:  I just want to check the mic.
+Polkadot:  All right. We're just waiting on one more speaker, but let's kick it off because we have a loaded agenda today. So thank you everyone for tuning in for our 2nd November community call. There were so many updates from our ecosystem this month that we needed to have two of them. So yesterday we are joined by A7 ecosystem or 8 ecosystem teams, excuse me. And today we have another packed agenda. So without further ado and just to give you an overview of everything happening today, we will hear from.
+Polkadot:  Interlay about their road map and from bridge to BTC D5 hub joining us today. We also have sub wallet to talk about their dot insights and their polka dot deep dive Q3 report and their ecosystem map and even their most loved projects campaign.
+Polkadot:  Later we have Pokedex joining us to talk about their recent beta release and upcoming integrations. We have polka dot naming service joining us today to talk about the new domain name registration, Planet NFT campaign, Dow Governance and DNS server. We also have crust joining us today to talk about their recent Para chain slaw auction crust files integration partnership.
+Polkadot:  Announcements and ambassador program. We also have a star joining us today to talk about their recent partnership with Doco Moto. And we have Infinity joining us today to talk about the latest updates on chain. So without further ado, let's hand it over to interlay.
+InterlayHQ:  All right. Well, so hi, I'm Alexa. I'm one of the two Co founders of Insulae and on very short notice had the chance to join in this community call and to share some major updates that are coming to Interlake.
+InterlayHQ:  As many of you know, we started our mission by trying to bring Bitcoin to into other ecosystems, fighting the big big problem that we have today that Bitcoin cannot be used for anything else but payments. Bitcoin has 300 million users, it is the biggest network by far and it is these system, the asset that is leading global adoption, right. It's the only thing that has penetrated every sector from.
+InterlayHQ:  Department stores to Internet giants and now even governments. But it is a controversy right that you cannot use BTC for anything else than transfers.
+InterlayHQ:  Without the necessary default tooling, without being able to trade, borrow, lens and do things with Bitcoin, there can never be a global economy built on top of it. And with the recent events around FT X and the the backlash that we've seen and the impact on centralized bridges like the one on Solana and remember TCD one being now sunset and we still don't quite know what will happen to WBTC because we know that's Alameda.
+InterlayHQ:  Minted 100K out of the 200K WDC in circulation. We've seen that centralized bridges are not an option. We've known this for a while now, but now we see that it also hits centralized Bitcoin bridges.
+InterlayHQ:  However.
+InterlayHQ:  Just a bridge is not enough. We've seen that while.
+InterlayHQ:  Being able to use I BTC across different different projects is great.
+InterlayHQ:  There is still a big hurdle for new users.
+InterlayHQ:  Every damp differs, every bridge is like every exam channel is a bit different and the user interfaces look different and it's very hard. Tends to onboard new users, people who have Bitcoin and want to use it in DFI into.
+InterlayHQ:  Into our new ecosystem, right? It's very difficult for us to get people from Etherium, Solana, Avalanche, Cosmos and Bitcoin itself to come to polka dots if there is so many different wallets, different projects that they have to interact with from the start.
+InterlayHQ:  And to this end.
+InterlayHQ:  Insulate will expand to being a full-fledged one. Stop shop for all things Bitcoin defying, you will be able to trade, borrow, lend.
+InterlayHQ:  Ensure your bid, composition goal average. Do whatever you want with your BTC.
+InterlayHQ:  Directly on the Interlay network.
+InterlayHQ:  This means in detail, we are on the one hand expanding the BTC bridge. We're launching V2 with significant improvements to scalability, which will allow much more BTC to enter the pull code ecosystem and then on top of that.
+InterlayHQ:  Deploying a decentralized exchange Uniserv 2 style plus curve style table swaps.
+InterlayHQ:  In parallel, we are launching a lending protocol that will allow you to borrow and lend against BTC.
+InterlayHQ:  And all of this is wrapped in a simple one click interface that allows you to do whatever you want within a few clicks and to construct custom strategies.
+InterlayHQ:  And then offer them to users so it's not so anyone will be able to.
+InterlayHQ:  Struck different strategies without having to write smart contracts.
+InterlayHQ:  This is obviously a big step. Big, big change.
+InterlayHQ:  And the the biggest change here? Well the the most interesting bit I believe is that the 1st.
+InterlayHQ:  Parts of this will be going live already end of this year, so as you can find in the 2.0 road map update. Tweet LinkedIn this call.
+InterlayHQ:  The test net for the lending protocol and most likely the decentralized exchange will go live on kintsugi.
+InterlayHQ:  Already in Q4, so basically in December this year and then early 2023 in January, we expect them to go live on kintsugi. So testnet first end of this year, we're going live on kintsugi early next year, then our fifth security audits and then roll out to insulate between February and March.
+InterlayHQ:  There is much, much more in in coming right, but the last thing I want to mention before handing over to the others is Intel's long term vision.
+InterlayHQ:  With the movement to really becoming a one stop shop, define hub.
+InterlayHQ:  We hope to attract.
+InterlayHQ:  The entire defect community that has BTC and we know that everybody in D5 has some form of exposure to Bitcoin.
+InterlayHQ:  But from but that's not all the the the first step after this will obviously be to expand to other ecosystems. And here we are betting on trustless live climb bridges.
+InterlayHQ:  We see.
+InterlayHQ:  Snow Fork hopefully going live early next year and the same will be possible with Cosmos. So you will see trustless bridges and Poker 2 theorem and Cosmos which interleave will leverage to expand and get more users into the ecosystem. And from there we will move on to institutional support but most importantly, most most interestingly.
+InterlayHQ:  We will then push for retail adoption and by retail we mean people who the 300 million users that have Bitcoin, not all of them actively use define and our goal is to to onboard them onto internally by.
+InterlayHQ:  Providing a very simple to use mobile application and launching the previously announced self custody Bitcoin Savings account.
+InterlayHQ:  And that's it for for today. If you're interested, please do check out the road map and consider joining our community AMA next week where we can share many more details on what's coming.
+InterlayHQ:  Thanks a lot.
+Polkadot:  Wonderful. Thank you, Alexi. And if you guys didn't see at the top of your screen here, we are penning the most relevant tweets to what our speakers are talking about. So if you hear something that sounds interesting, make sure to click the tweet at the top and check it out to learn more. Also in the lower right hand corner in this little chat box thing, if you have any questions, we have a packed agenda today, so there probably won't be time for questions at the end.
+Polkadot:  However, if you have a question while a speaker is speaking, click that and type your question and I'll make sure to ask it before the speaker at the end of the speakers talk.
+Polkadot:  Alright, so without further ado, up next we have sub wallet.
+subwalletapp:  Thank you. Thank you everyone. Lovely to be here. I am DJ haichang, I am lead researcher at sub bullet. And today I'm very happy to be here to present about our new Research focus initiative about the polka dot and Kusama ecosystem called dot Insight. And with that insights what would what we aim to do is to capture the entirety of the whole Polkadot and Kusama ecosystem. So first the problem, why do we do this?
+subwalletapp:  After entering the ecosystem, we noticed that there is a gap caused by the what we call the Polkadot dilemma, the polka dot ecosystem. We all know that it it has one of the most advanced technology in the world, blockchain. But at the cost of these centralization is data fragmentation and data fragmentation leads to difficulties in reporting historical data, thus leading to difficulties in reporting the whole ecosystem and.
+subwalletapp:  Getting a comprehensive.
+subwalletapp:  Understanding of the whole ecosystem from layer zero to layer one, layer two, et cetera.
+subwalletapp:  And there have been efforts in the past to capture the Polkadot ecosystem through reporting. But so far no reports have dug deep into layer one, pair of chains and layer 2D apps. So that is the reason why we come up with a solution to bridge the gap of knowledge here. And the solution is dot insights. So dot insights have two initial products that we introduce. The first one is the polka dot deep dive report.
+subwalletapp:  And the second one is the polka dot and Kusama ecosystem map and the polar Deep dive report. We actually introduced the 1st edition on the first half of 2022 in August and.
+subwalletapp:  With and that report.
+subwalletapp:  Serves 3 purposes. We provide an overview of the ecosystem, give insights into projects in DEFI, NFT and Web three, and then supply data from trusted sources and verify the project teams.
+subwalletapp:  And.
+subwalletapp:  The first one that we introduced in August as a kind of testing the communities feedback and reception. We actually gain a lot of warm feedback and impressive numbers from our launching campaigns. Overall that campaign attracted more than 500,000 children impressions with more than 1000 retweets and with that success in mind, we continue to do another deep dive report on the 3rd.
+subwalletapp:  Quarter of 2022 and with updates compared to the previous one.
+subwalletapp:  Thanks to the feedback of the community.
+subwalletapp:  And some impressive numbers that I'd like to share from the report that we have done and from dot insights more generally. So in Q3 of 2022, polka dot ranks first in the 30 day development activity ranking in September together with Kusama and in September also the polka dot total number of dot holders surpassed the 1,000,000 milestone.
+subwalletapp:  So from now.
+subwalletapp:  So now more than there are more than 1,000,000 holders of of dot and.
+subwalletapp:  
+subwalletapp:  More interestingly.
+subwalletapp:  In the first two weeks of November, this this month, there has been a surge in the number of new accounts coming to dot and the number of active accounts compared to the beginning of November. And I believe this is a very positive sign that the polka dot ecosystem is standing strong in times of difficulty and uncertainty.
+subwalletapp:  
+subwalletapp:  And.
+subwalletapp:  That is the first product that dot insize introduced to the community and the second one is the polka dot and Kusama ecosystem map and.
+subwalletapp:  With this ecosystem map, we'd like to offer an overview of the whole ecosystem, which then will allow users to explore and keep updates about all of the feature projects.
+subwalletapp:  The second purpose that we'd like to achieve is that we'd like to motivate 2 way interactions between the projects and the users through voting mechanism. And last but not least, very importantly, we like to support marketing and branding for all projects to communities both inside and outside of the ecosystem so that we like to make the the new user onboarding process easier.
+subwalletapp:  Right, because if you look at other ecosystem in the in the web free world, you see that most of them have.
+subwalletapp:  A kind of ecosystem map that captures all of the projects and all the things that are happening within the ecosystem. So that when a new user come in and start exploring the ecosystem, they can immediately jump into this ecosystem map and start exploring, answering their own questions of like, OK, what's happening inside Polkadot, which segments are the most vibrant, what kind of projects are operating in here, etcetera. So that's why.
+subwalletapp:  Polkadot ecosystem Map initiative comes up with support from parity technology.
+subwalletapp:  Um, and at this moment we are in the process of launching the ecosystem map and focusing on the voting mechanism. So in order to encourage users to come in and vote for their favorite projects, we organize.
+subwalletapp:  The most loved projects campaigns from N18 to N30, so the steps are very simple. You access the website dot insights dot XYZ installs at wallet if you haven't got one and then vote for your favorite projects inside the transaction using support let so you can use it. You can either use substrate accounts or EVM accounts. We recently supported EVM account signing and the.
+subwalletapp:  Transactions are totally gas free, but you have to have some balance on any chain in the ecosystem. And sorry, in any chain that submit supported in order to vote, that's kind of the mechanism that we that we apply in order to prevent spamming. So one address can one account, can book, can cast one vote for a project, but can vote for an unlimited number of projects and.
+subwalletapp:  Since we started running this campaign, up until now there have been 10,000 votes on the whole most loved project campaigns with almost 5000 users getting access into the insights website. So these numbers show that a lot of people are interested in this and and and the polka dot in the ecosystem maps are like a very necessary initiative.
+subwalletapp:  For for the whole ecosystem.
+subwalletapp:  And um.
+subwalletapp:  To end my presentation, I'd like to share about the vision and the mission and the next steps of dot insights. So dot inside aim to become a research hub and trusted data platform for the polka dot and Kusama ecosystem, with the mission of making the process of onboarding new users and builders to the ecosystem easier moving forward. We are in the spirit of web three, open source and always open to community input.
+subwalletapp:  So you can either submit your project if you feel like there's a missing, or you can raise the issue, or even create a pool request on our open source GitHub in order to improve the the dot Insights website. And in the next milestone, we we want to feature an info box for each of the project containing all of the necessary information for users to understand about the projects.
+subwalletapp:  Including Unchained data.
+subwalletapp:  And we will continue to do the reports in the next year and are again very open for suggestions. So if you have any ideas, any things that you think that would improve the report, please don't hesitate to contact us.
+subwalletapp:  Thank you.
+Polkadot:  Wonderful. Thank you so much. And again, pen to the top of this is a tweet from dot insights that talks about the deep dive report and leads to the ecosystem map as well, if anyone's interested in checking that out. So up next we have Pokedex.
+vivekprasannan:  
+Polkadot:  
+vivekprasannan:  Hello everyone. Am I audible?
+Polkadot:  Yes, we can hear you.
+vivekprasannan:  OK, hi, I'm Vivek, one of the cofounders of Perfex.
+vivekprasannan:  We are trying to solve one of the biggest problems that the crypto industry is facing since the beginning of this industry. That is to bring non custodial audibook trade to the retail and to give them professional training tools to which is popular in the market.
+vivekprasannan:  
+vivekprasannan:  If you're trying to build a decentralized exchange that performs like a centralized exchange.
+vivekprasannan:  Taking custody out of a centralized operator has been a very difficult problem to solve. This is a problem which is around for a long time. It was even recently discussed in a recent paper published by Vitalik. Veteran community is still struggling to solve it using plasm and validium smart contracts, but.
+vivekprasannan:  Politics has found a breakthrough to solve this longstanding problem without using any complex smart contracts.
+vivekprasannan:  Basically by utilizing one of the properties which is inherent in substrate. So substrate is this unique property which allows you to use delicate signatures. So it is groundbreaking in the fact that instead of using any smart contracts, you are able to first solve it using autographic primitives.
+vivekprasannan:  So all of this was possible only with the flexibility of programming and substrate.
+vivekprasannan:  But like any difficult problems, it has not been easy right for Pokedex because we have this very complicated architecture basically.
+vivekprasannan:  Giant keeping the end user in mind.
+vivekprasannan:  So do we order to make sure the centralized operator that runs the order book does not get access to the funds? We had to introduce an execution layer that is bound by a trust layer provided by the network. So after close to two years of development, we have finally released the audible beta to the main net.
+vivekprasannan:  Which you can already see in the URL autoboot Polkadot, trade.
+vivekprasannan:  Which actually was done after releasing a mainnet one year ago. So if you currently go to the website, whatever interface that you see there is basically the front end interacting with the.
+vivekprasannan:  Blockchain through a trusted enclave.
+vivekprasannan:  So if you look at the last one year, the development has been mostly focused around getting the enclave to talk to the runtime, which has not been very easy because most of the libraries were not tested before. And this is the first time that trusted enclave environment is put into production and utilized for a use case like this. So we had to basically.
+vivekprasannan:  He invented many of the many of the libraries and and the, you know, connections that had to happen between the enclave and the substrate code.
+vivekprasannan:  So it was something which took a long time to finish.
+vivekprasannan:  But we are happy to announce that it is finally over and it is out in the main net which will be everybody can see. And in order to test out maintenance stability we have right now utilized a temporary bridge to etherium because as you know we have, we are still, we are parachin, but we still haven't connected to the you know network yet. So for the time being we have utilized centralized bridge using Chain Bridge to bring in assets.
+vivekprasannan:  To.
+vivekprasannan:  You know, test out the stability of the network and the interface.
+vivekprasannan:  So far it is working fine.
+vivekprasannan:  And the interface also needs to be tweaked and in the coming months we can expect more connections to be opened. And that is the primary focus right now to get the Para chain up and running and make sure that we have enough channels open to allow for data to pass through. And make sure that these any applications that runs on other para chains are able to place directly or communicate directly with the order.
+vivekprasannan:  
+vivekprasannan:  So that is 1 aspect of it. And also the fact that we are trying to make sure that more simple channels are open with other layer ones. That is also in the work using another set of relayer mechanisms which have in-house developed. It's called the Tia protocol, which is again an extension of changing the ballot data set that we already have and also playing around a little bit with the tokenomics.
+vivekprasannan:  To make sure that anyone who's actually allowing these channels to open to Pokedex order book is rewarded with.
+vivekprasannan:  With the, you know, reward mechanism. So basically eventually how we intend to work is that the PARACHIN will be utilized mostly for holding.
+vivekprasannan:  You know assets which will collateralized assets and making sure that it also acts as a gateway for the other Para chain assets to come through and also to make sure that the validators are able to hold enough assets to secure the.
+vivekprasannan:  The data that is available on chain.
+vivekprasannan:  
+vivekprasannan:  And we also have one more.
+vivekprasannan:  Aspect to the trading where the enclave is actually performing these trades for the user and the option trading that happens will be stored on IPFS platform, which are also discussing with one of the projects here cross network which I believe cross network will explain in detail. So that is something which we're also trying to partner with them in order to make sure that whatever off chain data there is.
+vivekprasannan:  As additional backup on IPFS.
+vivekprasannan:  So well I think that is how the the current state of the network is. It is currently running as a separate solo chain as well as it will also be connected as a para chain. And once the parent chain and the network is live, we can hope to see more XM channels to be opened with other parachutes.
+vivekprasannan:  
+vivekprasannan:  Yep. Thank you very much. That is the update from our side.
+Polkadot:  Great. Thank you so much. And up next we have polka dot name service to talk about their new domain name registration.
+Polkadot:  
+PolkaNameSystem:  Hi everyone I'm lovely to have this chance for sharing our latest updates. So basically PSD infrastructure based on polka dots and you can use it to transfer some assets which is the basic usage. And also like you can if you're an artist you can use like some sub domain for example FT dot dot dot to track your.
+PolkaNameSystem:  To track your FT uh also like if you are like running a dull organizations you can like use this sub domain features to reject something like Twitter dot PBS dot dot and run this your doll like in a more web 3 way.
+PolkaNameSystem:  And so like we currently already have opened five digit registration and I think by the end of this year we will open much shorter registration like 4-3 which will help the like the whole polka dot ecosystem to build a identity recognization.
+PolkaNameSystem:  For the second point, we are also developing PNS API which will save time for other projects to interpretations. For the moment we are working with Moonbeam, Talisman like another wallet and Web 3 gold. Literary like relation, something like social. We thought it's just more than like an FT, but also.
+PolkaNameSystem:  Corner for massive adoption of like uh something like social project and it might solve the fragmental problem of this whole polkadot because you have we have a lot of power trains and sometimes it's difficult to track where your assets or where you are. But if you have like a readable name like my name case cats love fish dot dot and other people can you know recognize you much much more easier. And for the.
+PolkaNameSystem:  Third Point, we recently we have also support polka dot Hexone Asia. We will give any team who try to merge or integrate with PNS some rewards.
+PolkaNameSystem:  Or the fourth points, uh, the very recently we decided to launch some NFT for governance because we thought like this project shouldn't be just you know, like controlled by the call members. We need to listen to the the Community and anyone who has this like you know, these NFT can just do some vote. This is slightly different from the PNS which is.
+PolkaNameSystem:  Technically also left, but you know use it for different purpose and like currently we have events, you know if you just reject some PNS domains, you can get these special NFD we called comet and you can use this just to you know to vote or to get some reduction for reduced fee or maybe in the future we decided to like to return some treasury or like do some vote to what should we do for the next.
+PolkaNameSystem:  Of our next step?
+PolkaNameSystem:  And for the fifth point, in order for people to uh for normal users to better use DPNS, we are launching the multi token payments for PNS registrations. People can just use different tokens because as we all know, there are a lot of tokens on the polka dot ecosystems. We don't want to like stick on one or two.
+PolkaNameSystem:  And for the six points we also get get some. We also try to strength our go to market.
+PolkaNameSystem:  Um, strategy. So we get, so we get a feature, a invitation features. So as a new user just invite some other users. They can also get some rewards.
+PolkaNameSystem:  I think for the seventh points it's about SBT because we thought maybe in the futures a DD will be.
+PolkaNameSystem:  Something like you're very important digital assets just like like other assets. So if if like someone tried to sell something or you don't want to sell it in the future you can just make you all this. Did this end with the dots just permanently. So for example like me I can link my cats love fish dot dot. It's DID to my address permanently. I cannot.
+PolkaNameSystem:  Transfer it to other peoples and it will help other people to believe, OK, you are the man here and maybe also with the support of our partners like relation you can also have a lot of social graph behind on it and maybe it will open a massive adoption of social, social network or social projects for for the whole web three also maybe like some lending or borrowing like some financial social.
+PolkaNameSystem:  Financial things maybe also will will be built on these like SBT features and I think also we would like to talk modules which is we thought it's also very important because during the development of PNS we keep thinking OK, what can we do more than like DNS or like like bovedas these other projects in the other trains and we found it a very interesting point like.
+PolkaNameSystem:  Then for example, nowadays all of these statues are actually stored on chain and decentralized, but it still can be blocked by some web two tycoon. Like maybe someone knows about this tornado cache things or swap like this. Traditional web tool company can block these things very easily. So maybe if you are very technical guy you can always go to the P2P network and go to the node, but if you're just a normal.
+PolkaNameSystem:  Suppose you can't you you just cannot get access to it. So I will explain a little about about these DNS features. So DNS stands for decentralized. So think about that if your project you can just write your website IP under your DID. And as we all know there are lots of nodes on the polka dot, so you can ask these nodes, hey can can you just return me some IP address of this special DVD?
+PolkaNameSystem:  Like peanuts dot dot and by doing this you can always get the IP address correctly and anti censorship from the central central things like traditional DNS service like Cloudflare and we sort it will feed it will kind of like.
+PolkaNameSystem:  Like just make the whole loop complete for the whole day Web, um, otherwise you still will meet some kind of problem. Like oh OK everything is online, but you just cannot open from your from your Chrome and it's kind of uneasy for the massive adoption. So I think like this PLS people might think it's very similar to you.
+PolkaNameSystem:  Yes, for sure. But also we have a lot of unique features just like just like sites you can use it to run your down or like you can just get some tracks for your own minted NFT. If you want artists you don't need to go to the open sea to do it and we hope you like to get more cooperations with other projects because we we know if we just all alone.
+PolkaNameSystem:  We we are basically no one and it's just like you know an EFT stuff but if more people use it it might have some network effect and people can just identify yourself not just maybe in the first stage will be on the polka dot everyone know oh hey you are a project like our partner like literature dot dot or like Moonbeam dot dot this stuff but.
+PolkaNameSystem:  Maybe in the even more futures, if a lot of web two peoples from Twitter, they're using these dots like to identify themself like ohh I'm a I'm a polka dot man. Not just is there a man and you can say, oh hey I am here and it's more than like transform assets without correction. It's also about identity. It's also about social graph. It's also about massive adoption. So please don't hesitate.
+PolkaNameSystem:  If like your projects, just send us a link if you want to use the API or if you are some normal people just want to get your own name, some fancy name on the one train, you can just check our website PMS dot link just to reject somethings. Or if you want to vote you can just wait for a little bit moment, you can join our discord and we will give you guys a chance to also participate in this decentralized decentralization movement, not just.
+PolkaNameSystem:  Assets, but also much more like social society. OK, I guess my time is near the close so I will give the mic back to the host.
+PolkaNameSystem:  
+PolkaNameSystem:  
+Polkadot:  Wonderful. Thank you so much. Up next, we have crust network to talk about their paratene slot, Umm, their Crest files integration, partnership announcements and Ambassador program.
+Polkadot:  
+The_JesusCrust:  Great. Everybody look here from cross network, I'm, I'm the business lead for cross network and yeah, it's already said, I want to give you some.
+Polkadot:  You aren't able to hear you.
+Polkadot:  Ludwig.
+WatanabeSota:  I can't hear you.
+WatanabeSota:  Yeah, yeah.
+Polkadot:  Ohh you you were able to hear crust. Ohh OK it must be something on my side.
+vivekprasannan:  Yeah, it's fine.
+The_JesusCrust:  So so is it fine now?
+WatanabeSota:  Yeah.
+The_JesusCrust:  OK, perfect. I hope everybody else can hear me too. Um. Otherwise maybe raise your hand or comment.
+The_JesusCrust:  So yeah, cross Network is a decentralized storage protocol that's built on the IPFS protocol and it addresses issues like data ownership, immutability, censorship resistance, and data privacy for Web 3 because current solutions like web two are offering and providing such as a WS or Google Cloud.
+The_JesusCrust:  For data storage are just not, um, decentralized and not suitable for the web three we all envision and also work for so hard. So cross provides a solution for that by providing, yeah, decentralized storage solutions and we chose the IP FS protocol.
+The_JesusCrust:  Because it's on one hand very decentralized. It's totally immutable. It uses.
+The_JesusCrust:  Uh, content based addressing of content. So it actually doesn't matter where the stone where the content is stored as long as the content is available somewhere in the network. But I PFS on its own doesn't come without any flaws. So basically I PFS is not incentivized and that's why you have no guarantee that your data will be maintained in the network and you also have no control about how many nodes actually pick up your data and store it.
+The_JesusCrust:  And the simple reason is there are just no rewards for those not operators to actually hold onto your data. So after garbage collection this data might be lost. And although this data is there stored immutable and decentralized, we also want to have kind of a guarantee and control over our data and maybe an endless persistence. So what we are building is an incentive and a service layer on top of the PFS protocol.
+The_JesusCrust:  Um, which on the one hand has storage providers that provide their storage resources to our protocol and on the other hand we have users, developers, builders, whoever who has the specific demand for storage resources. And in between those two groups we have our protocol stack that enables totally trustless environment to actually execute those storage orders on chain and also record them on chain.
+The_JesusCrust:  And all of this for like a margin of the price we are used to from Web 2.
+The_JesusCrust:  The cool thing is that uh, this offers solutions for many different use cases. So the problem most popular use cases is actually hosting of decentralized applications. We do that for a lot of DFI projects. The most popular projects probably using our technology, our uni swap and Avi who host their front end via cross network. They pin their UI to our network.
+The_JesusCrust:  And get like guaranteed. I think unit swap has guaranteed over 80 different replicas distributed over our entire network. So.
+The_JesusCrust:  Um centralized outages or errors are are not relevant for unisoft anymore because they know they have 80 / 80 replications and it's very the chance that all of those nodes go down at the same time as is is not very high. So the availability is very high. Additionally it reduces the exposure to any kind of front end related security preachers like DNS, hijack attacks, etcetera.
+The_JesusCrust:  So there's a lot of value for 45 projects to actually use decentralized hosting via cross network. And another popular use case is NFT metadata storage. So still a lot of metadata for for NFT's are stored on centralized solutions like I WS, like Google where.
+The_JesusCrust:  Well, let's see.
+The_JesusCrust:  We we we can experience a lot of different issues. For example the link can break and then maybe my 5-6 digit NFTS it links to like a very expensive 404 error pay or error page or this this content can be censored by the centralized cloud operator and many different issues that can come along the way. And so users actually don't own their data, they don't really have control over your data and instead it just gets exploited by those large platforms.
+The_JesusCrust:  And yeah, for not the benefit of the user itself and that's what we are working on and we recent although we are, we were I think among the very first ten projects actually building on the polka dots framework. We just recently won our parrot chain slot. So we won the 30th Polka dot parrot chain auction. I think it was in the end of last month and at the same week we also extended our cross shadow.
+The_JesusCrust:  Slot for the Kusama network. So it was quite an exciting month for us last month. And yeah, we we are open now for any kind of projects to integrate with us. We believe that any kind of Rep 3 service or solution utilizes or or is has a need for some kind of storage and why not use a decentralized solution over our centralized one and yeah.
+The_JesusCrust:  So, so with the Persian slot it you can make it even more easy for projects to connect with us in a totally native way where ACMP channels to use our X storage palette and we are open for anybody who is interested, feel free to contact me to get in touch with our team and we can work on that together. And yeah, so leading from that I want to also talk about a little bit about partnerships. The most recent one we probably announced are the ones with Gear Network with.
+The_JesusCrust:  A pillion, formerly austral, who will use cross network as a storage module in their developer tool platform peak network that we'll use cross network to store. Yeah, let's say economy of things data on their tenure will store in FT metadata and I think we already heard it Polkadot Pokedex will work together with Cross network to store their of chain user data on cross network.
+The_JesusCrust:  They already are utilizing IPFS, but yeah, with pinning their data additionally across network, they can get the full higher degree on decentralization, more replications, higher security and more, more and more values.
+The_JesusCrust:  So I also want to talk about one of our end user applications. It's called crust files. For those of you who don't know it yet, crust files is basically a decentralized Dropbox. You can log in with your with your wallet. We have many different wallets you can log in with. For example, recently we integrated sub wallet. So if you have a sub wallet, wallet or just the polka dot extension, you can log in.
+The_JesusCrust:  Even with your Meadow mask and you can store your data like in a Dropbox kind of user experience, totally decentralized and immutable and all of this is for free, so feel free to try it out. And another cool thing is we also know recently integrated Web 2 logins so for for for Web 2 users to make it easy for them to onboard to try out decentralized solutions and that's from that's why you can log in.
+The_JesusCrust:  For example with the red account, with your Twitter account, with a normal e-mail and much more.
+The_JesusCrust:  And one of our main goals at the moment is not just building solutions, but also to raise awareness for decentralized storage and to encourage developers to actually use this technology, which is in our eyes highly needed for a fully decentralized web. Three and yeah, we want to make it as easy as possible for developers to access our our these storage solutions. And that's why, for example, we.
+The_JesusCrust:  Recently just opened a new faucet where where developers can get some tokens to play around. We offer a grant program where builders can apply where we provide up to $30,000 financial support and we have an an ecosystem growth program where we where we help our builders with our with our knowledge, with our network and also with financial assets to get their project started and.
+The_JesusCrust:  Yeah, if you have any kind of ideas how to utilize this kind of technology and how to leverage it, um, check our documentations, there's like a guide how to apply for those grant programs.
+The_JesusCrust:  And and how to, yeah, get in touch with us.
+The_JesusCrust:  And and very last thing I want to say is something that we are also working on a totally new product suite which is built on top of crust, which makes it even more easy to to leverage cross networks technology unlike a kind of platform as a service or software as a service basis. So it's something really exciting and I'm looking forward to that and you definitely will hear about that via our socials so.
+The_JesusCrust:  I encourage you to follow us and or to follow my account. I joined with my personal account but the cross network account is yeah easy to find as well. And yeah so I would be I would be glad if you maybe looked into this and also maybe to hear from you.
+The_JesusCrust:  From my side, thanks.
+The_JesusCrust:  
+Polkadot:  Alrighty. Thank you.
+WatanabeSota:  
+Polkadot:  So up next, we have a star to talk.
+Polkadot:  Oh.
+WatanabeSota:  Yeah, I can hear you.
+Polkadot:  Sorry, can you hear me?
+WatanabeSota:  Thank you.
+Polkadot:  OK, great. Up next, we have you and to talk about your partnership with Docomo.
+WatanabeSota:  Yeah. Thank you very much for having me today, Andy. I saw a lot of the family offices here. Andy really excited to visiting Subzero next week. Before talking about Docomo, I would like to explain what astani talk is.
+WatanabeSota:  
+WatanabeSota:  Network is the future of smart contract platform for a multi chain era.
+WatanabeSota:  So we became up in January as one of the top five and we have been developing our ecosystem.
+WatanabeSota:  So right now we have a more than 70 dubs either in FT or DPI on on the top of our ebrium easily machine. But for us we are making a smart contract hub that support easily in virtual machine and web assembly.
+WatanabeSota:  I think having a very well somebody is very important for Portugal ecosystem.
+WatanabeSota:  Because right now, 100% of the products.
+WatanabeSota:  Uh, you know everyone?
+WatanabeSota:  So what you think is already in the sense we are somehow reproducing something in an ECM can make.
+WatanabeSota:  So from the US found out Asda perspective, we would like to push, I would like to push Webassembly implementation and adoption.
+WatanabeSota:  
+WatanabeSota:  By the technology is making a contract palette for Webassembly smart contract and which will be implemented in a quota one on a star.
+WatanabeSota:  
+WatanabeSota:  And once we support we've assembly, uh, you can deploy Inc smart contract, I mean lots of smart contract or maybe in the future go smart contract or C++ smart contract or maybe TypeScript or smart contract and so on. So having Webassembly means unlocking web 3 for Web 2 developer and we do have a etherium environment, so we do have.
+WatanabeSota:  We are going to support not only with three developer but also with two developer and make them interactive. So we invented cross budget machine. So we have EBM and Webassembly and they make them interactive and we are calling it across virtual machine.
+WatanabeSota:  And we are also making swanky. Swanky is the all in one web assembly smart contract toolings.
+WatanabeSota:  It's like truffle for solidity and swanky is for, uh, Webassembly smartphone tract.
+WatanabeSota:  And we are going to show you a demo at Subzero next week. So really excited to show our progresses.
+WatanabeSota:  Apart from that, I think Australia is one of the leading smart contract para chain on Polkadot right now. But we have another narrative Japan. Probably the reason is I'm Japanese founder.
+WatanabeSota:  
+WatanabeSota:  And we have a lot of the, the great partnership in Japan and one of them is NTT Docomo.
+WatanabeSota:  In a deity is the 4th biggest company in Japan, and 30% of the NT stock is owned by the Japanese government.
+WatanabeSota:  And indeed, Docomo is the title company of NTT Group.
+WatanabeSota:  And but ind.com is the the largest Internet mobile operator in Japan and 37% of the Japanese people are using NTT Docomo. So it's super huge and their annual revenue is more than 40 billion I guess per year and they decide that they disclose that they're going to invest 4 billion.
+WatanabeSota:  U.S. dollar into web three in a in upcoming four or five years.
+WatanabeSota:  Indeed, we are selected one of the partners together with Accenture.
+WatanabeSota:  So we are going to push website adaption together with Accenture and NTT Docomo.
+WatanabeSota:  And also we also agreed that we are going to make Web 3 social good use cases on the top of our stuff like you know.
+WatanabeSota:  Environment that the babysitting use cases to solve environment problem.
+WatanabeSota:  In aging society and so on.
+WatanabeSota:  So I think our presidency in in Japan is getting bigger and bigger.
+WatanabeSota:  And the my mission in 2023 is to bring top Japanese companies.
+WatanabeSota:  Mean that I start, I start network ecosystem.
+WatanabeSota:  So this is what we would like to do in the in 2023 we would like to be recognized.
+WatanabeSota:  As the emerging chain backed by Japan in like Polygon, India is going to be Asta in Japan.
+WatanabeSota:  And also Japan has strong contents like IP, like manga, anime and so on.
+WatanabeSota:  In what's happening right now is Chandigarh. Chandigarh is original IP.
+WatanabeSota:  Made by your stack armano you sagano. He is the the illustrator of the Final Fantasy.
+WatanabeSota:  And the the auction is happening right now and so far it is successful. And Amano, Amano Sensei, he is the leading a legend in Japan and once we can make candy girls successful, I believe that a lot of the contents IP will be following so.
+WatanabeSota:  Yeah. Uh, I I think, yeah, once Candy Gordy is successful, I think we can have very famous IP, which everyone knows.
+WatanabeSota:  Umm.
+WatanabeSota:  Yeah, that's happening right now and.
+WatanabeSota:  By the by the end of this year, we would like to in push forward forward by implementing a web assembly use cases and also use cases that leverage XMP. But in 2023 we keep contributing to the POLKADOT, but we also would like to make much stronger presence in Japan.
+WatanabeSota:  And across the globe. So this is what we would like to do.
+WatanabeSota:  Um, luckily we days lately 25 million led by Polychain, Coinbase and so on in January, so we are expanding our team right now. If you are interested in working with us, feel free to contact me and if you'd like to deploy something on a star.
+WatanabeSota:  Beyond EBM or Webassembly? Feel free to contact me as well. Yeah, thank you very much for your time.
+efinityio:  Hmm.
+Polkadot:  Thank you, sota. And last but not least, we have Infinity joining us today to talk about their recent updates on chain fuel tanks and the new market palette, marketplace palette.
+efinityio:  Hello everyone, can you guys hear me?
+efinityio:  
+Polkadot:  Yes, I can hear you. We can hear you.
+efinityio:  Amazing, amazing. Yes, hi everyone, my name is tacio, one of the ecosystem managers working at Affinity and I would like to introduce you guys to two amazing features that we are currently building with profanity which is the marketplace ballot and few things. Both of these features are operated operating on protocol layer level. First of all the marketplace quality is on affinity. Devs and blockchain users are able to trade their NFTS without the need of of a front end but form if the marketpla
+efinityio:  On it you can buy, list and sell your tokens on the prayer chain marketplace directly. On chain the spirit we allow blockchain game devs and users to create fixed price listings, time to auctions and place bids on an FT directly on the blockchain as well as supporting royalties built in the protocol area with less smart contracts risks. A protocol fee of 2% is charged for of the sales on the marketplace and it is directly sent over to the pilot post to be used for.
+efinityio:  Costs related to the perishing itself.
+efinityio:  Jumping writing tool the the fuel tanks with these on chain future deaths are able to subsidize transaction costs for their user players. Debts are also able to specify various settings and rules based on which field would pay for the transaction fees as well as provide storage deposits.
+efinityio:  Let's talk about my uh bit more about the the these features. Some of these rules are very flexible and can include whitelisting addresses, collections on the blockchain, requiring users to have a token balance to be subsidized by the fuel tank itself, permitted specific calls for for rules sets on the blockchain, setting up budgets for users and and feel things as well.
+efinityio:  Uh, this was definitely very short, but I hope this was enough for to give a a short glimpse on what we are currently building on affinity. If you would like to to reach out and develop with with affinity, feel free to drop us a PM on Twitter and we would be more than glad to assist you on anything related to it.
+efinityio:  Uh, I think this is everything on my end. This is definitely a wrap up on my side. Thanks everyone who is listening and feel free to reach out if you would like to to build with us.
+efinityio:  
+WatanabeSota:  Uh, Amy, you'll meet.
+Polkadot:  Thank you so much. Sorry about that. I seem to be having phone issues today. Well, thank you everyone for attending the call and that is our call for today in case you tuned in.
+Polkadot:  I'm late, sorry people. Are you guys can hear me now, right?
+WatanabeSota:  Yes, yes.
+Polkadot:  OK, wonderful. Sorry about that. Thank you everyone for one for tuning in today. A special thanks to our speakers joining us today. Alexi from Interlay, DJ Ha from Sub Wallet, Vivek from Pokedex PNS. We had Luke Ludwig from crust, Sota from a star.
+Polkadot:  And how, uh, tasio, I hope I said your name right from Xfinity. And thank you to everyone who tuned in today. If you joined late, don't worry, this call will be available right after this call for replay. So you can just go back to the tweet and hit replay and hear it for the next 30 days and then it will also be uploaded to our YouTube channel past 30 days if you ever want to hear it. And there will also be a tweet thread, recap to recap everything you heard here with the relevant link so in ca
+Polkadot:  And you forgot where to go to check out more. We'll be we will make sure to share that on social media. Thanks again for everyone who tuned in and for joining us today in a special thanks to our speakers. Thank you.
+Polkadot:  
+WatanabeSota:  Thank you very much and bye bye.
+efinityio:  Thanks everyone. Bye, bye.
+vivekprasannan:  Thanks everyone.

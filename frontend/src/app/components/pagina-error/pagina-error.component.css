@@ -1,0 +1,26 @@
+.contenedor-pagina-error{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    height: 70vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.contenedor-pagina-error h1{
+    font-size: 90px;
+    color: red;
+}
+.contenedor-pagina-error a{
+    padding: 7px;
+    background-color: transparent;
+    border: 1px solid black;
+    transition: 0.3s all ease-in-out;
+    border-radius: 20px;
+}
+.contenedor-pagina-error a:hover{
+    background-color: aqua;
+    transform: scale(0.95);
+}

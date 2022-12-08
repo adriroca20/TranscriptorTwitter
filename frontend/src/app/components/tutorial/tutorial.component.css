@@ -1,0 +1,15 @@
+#contenedor-tutorial{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    width: 100vw;
+    height: 60vh;
+    min-height: 400px;
+}
+.paso-tutorial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

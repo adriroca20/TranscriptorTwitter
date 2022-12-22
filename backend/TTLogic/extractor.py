@@ -1,13 +1,10 @@
 import requests
 import json
 import time
-from googletrans import Translator
+# from googletrans import Translator
 
 import io
-from reportlab.pdfgen import canvas
-from reportlab.lib.units import inch
 from reportlab.lib.pagesizes import letter
-from textwrap import wrap
 from reportlab.platypus import Paragraph, SimpleDocTemplate
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet

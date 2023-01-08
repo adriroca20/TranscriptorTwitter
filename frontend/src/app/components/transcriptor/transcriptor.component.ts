@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
-import getTranscription from "../../services/conexionBackend"
+import {getTranscription} from "../../services/conexionBackend"
 @Component({
   selector: 'app-transcriptor',
   templateUrl: './transcriptor.component.html',
@@ -9,11 +9,12 @@ import getTranscription from "../../services/conexionBackend"
 })
 export class TranscriptorComponent {
     lupa = faMagnifyingGlass;
-    
-    transcriptText(URL:any){
+
+    async transcriptText(URL:any){
+      console.log("buscando");
       if(!URL.value){
         return;
       }
-      console.log(URL.value);
+      await getTranscription(URL.value);
     }
 }

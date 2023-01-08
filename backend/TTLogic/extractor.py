@@ -52,6 +52,7 @@ class Extractor:
         return requests.post('https://chatman-replay-eu-central-1.pscp.tv/chatapi/v1/history',
                              json={"access_token": self.access_token, "cursor": cursor, "limit": 1000, "since": None, "quick_get": True}).json()
 
+  
     def getCaption(self, url):
         spaces_id = url.split("/")[5].split("?")[0]
         self.spaces_id = spaces_id
@@ -87,17 +88,38 @@ class Extractor:
                                 rightMargin=72,
                                 leftMargin=72,
                                 topMargin=72,
-                                bottomMargin=40)
+                                bottomMargin=20)
         styles = getSampleStyleSheet()
+
         flowables = []
         for linea in self.res:
             para = Paragraph("<br/>" + linea, style=styles["Normal"])
             flowables.append(para)
 
-        doc.build(flowables)
+        doc.build(flowables,onFirstPage=self._header_footer, onLaterPages=self._header_footer)
 
         buf.seek(0)
         return buf
 
-    def metodoPrueba(self,url):
-        print("Hola")
+    @staticmethod
+    def _header_footer(canvas, doc):
+        # Save the state of our canvas so we can draw on it
+        canvas.saveState()
+        styles = getSampleStyleSheet()
+
+        canvas.setTitle("Transcription")
+
+        # Header
+        header = Paragraph('Twitterspacestranscriptor.com', styles['Normal'])
+        w, h = header.wrap(doc.width, doc.topMargin)
+        header.drawOn(canvas, doc.leftMargin, doc.height + doc.topMargin - h)
+ 
+        # Footer
+        footer = Paragraph('Twitterspacestranscriptor.com', styles['Normal'])
+        w, h = footer.wrap(doc.width, doc.bottomMargin)
+        footer.drawOn(canvas, doc.leftMargin, h)
+ 
+        # Release the canvas
+        canvas.restoreState()
+    
+      

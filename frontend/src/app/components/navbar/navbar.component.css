@@ -11,16 +11,20 @@
     color: var(--color-principal);
     
 }
-
-#navbar .links{
+.links{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 50vw;
+    height: 100%;
+    gap: 30px;
+}
+.links a{
+    height: 100%;
+    width: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
-}
-.links a{
-    text-transform: uppercase;
-    font-size: 1.2rem;
 }
 #logo-navbar{
     width: 50px;

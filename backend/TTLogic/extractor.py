@@ -69,8 +69,14 @@ class Extractor:
                 body = json.loads(payload['body'])
                 if "final" in body:
                     if body['final']:
-                        # body['programDateTime']+' '+
-                        self.res.append("<b>" +  body['username'] + ": </b>"+body['body'] + "<br/>")
+                        contenido=""
+                        if options['time']:
+                            contenido+="<b>" +  body['programDateTime'] + " </b>"
+                        if options['name']:
+                            contenido+="<b>" +  body['username'] + ": </b>"
+                        contenido+=body['body'] + "<br/>"
+                        self.res.append(contenido)
+                        contenido=""
             try:
                 if "cursor" in raw_data:
                     if int(raw_data['cursor']) > 0:

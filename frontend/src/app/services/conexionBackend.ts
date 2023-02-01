@@ -1,4 +1,4 @@
-async function getTranscription(url:String): Promise<any>{
+async function getTranscription(url:String, opciones:any): Promise<any>{
     const requestOptions:any = {
         method: 'GET',
         redirect: 'follow'

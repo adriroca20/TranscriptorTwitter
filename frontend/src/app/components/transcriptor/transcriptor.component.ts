@@ -9,12 +9,21 @@ import {getTranscription} from "../../services/conexionBackend"
 })
 export class TranscriptorComponent {
     lupa = faMagnifyingGlass;
-
-    async transcriptText(URL:any){
+    estado : boolean = false;
+    mensajeAgradecimiento : boolean = false;
+    opciones:any ={name:false,time:false, user: false };
+    async transcriptText(URL:any){  
       console.log("buscando");
       if(!URL.value){
         return;
       }
-      await getTranscription(URL.value);
+      this.estado = true;
+      await getTranscription(URL.value, this.opciones);
+      this.mensajeAgradecimiento= true;
+      this.estado= false;
+    }
+    onChangeOptions($event:any){
+      this.opciones[$event.target.value] = $event.target.checked;
+      console.log(this.opciones);
     }
 }

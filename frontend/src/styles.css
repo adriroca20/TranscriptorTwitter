@@ -1,6 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 :root{
-  --color-principal: rgb(66, 6, 122);
+  --color-principal: #12073D;
+  --color-letras: #FFF;
+  --color-secundario-letras: #CA96FF;
+  --color-terciario-letras: #bcbdbe;
+  --color-animaciones:#CA96FF;
 }
 * {
   margin: 0;
@@ -12,15 +16,12 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
+.texto-color-diferente{
+  color: var(--color-secundario-letras);
+}
  body {
-  /* background: radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
-  background-color:#282828;
-  background-size:16px 16px; */
-  /* background: linear-gradient(to right, #24243e, #302b63, #24243e,#24243e); */
-  /* background-size: 200%; 
-  animation: movimiento-back 7s linear infinite; */
-} 
+    background-image: linear-gradient(#50546C, #2D254B, #12073D);
+  } 
 
 @keyframes movimiento-back{
   from{

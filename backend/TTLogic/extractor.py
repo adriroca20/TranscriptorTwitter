@@ -53,7 +53,7 @@ class Extractor:
                              json={"access_token": self.access_token, "cursor": cursor, "limit": 1000, "since": None, "quick_get": True}).json()
 
   
-    def getCaption(self, url):
+    def getCaption(self, url, options):
         spaces_id = url.split("/")[5].split("?")[0]
         self.spaces_id = spaces_id
         self.setGuestToken()

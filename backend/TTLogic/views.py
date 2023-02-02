@@ -8,7 +8,8 @@ def transcript(request):
     # url="https://twitter.com/i/spaces/1gqxvyzbdMRJB?s=20"
     extractor = Extractor()
     url = request.GET.get("url", "")
-    options = json.loads(request.body)
-    print(options)
-    buffer = extractor.getCaption(url,options)
+    name=request.GET.get("name", "")
+    time=request.GET.get("time", "")
+    user= request.GET.get("user", "")
+    buffer = extractor.getCaption(url,name,time,user)
     return FileResponse(buffer, as_attachment=True, filename="transcriptionTWT.pdf")

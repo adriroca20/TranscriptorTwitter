@@ -1,0 +1,25 @@
+#contenedor-en-construccion{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+#contenedor-en-construccion h1{
+    font-size: 2.5em;
+    text-align: center;
+}
+#contenedor-en-construccion p{
+    font-size: 1.5em;
+}
+#contenedor-en-construccion img{
+    width: 200px;
+}
+
+@media only screen and (max-width: 600px){
+    #contenedor-en-construccion img{
+        width: 80%;
+    }
+}

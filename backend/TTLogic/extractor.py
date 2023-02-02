@@ -53,7 +53,7 @@ class Extractor:
                              json={"access_token": self.access_token, "cursor": cursor, "limit": 1000, "since": None, "quick_get": True}).json()
 
   
-    def getCaption(self, url, options):
+    def getCaption(self, url, name, time,user):
         spaces_id = url.split("/")[5].split("?")[0]
         self.spaces_id = spaces_id
         self.setGuestToken()
@@ -70,10 +70,12 @@ class Extractor:
                 if "final" in body:
                     if body['final']:
                         contenido=""
-                        if options['time']:
+                        if time:
                             contenido+="<b>" +  body['programDateTime'] + " </b>"
-                        if options['name']:
+                        if name:
                             contenido+="<b>" +  body['username'] + ": </b>"
+                        if user:
+                            contenido+="<b>" +  body['displayName'] + ": </b>"
                         contenido+=body['body'] + "<br/>"
                         self.res.append(contenido)
                         contenido=""

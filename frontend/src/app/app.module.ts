@@ -8,16 +8,18 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { TranscriptorComponent } from './components/transcriptor/transcriptor.component';
 import { TutorialComponent } from './components/tutorial/tutorial.component';
-import { AboutComponent } from './components/about/about.component';
-import { ContactComponent } from './components/contact/contact.component';
-import { LandingComponent } from './components/landing/landing.component';
+import { LandingComponent } from './components/landing-tw/landing.component';
 import { PaginaErrorComponent } from './components/pagina-error/pagina-error.component';
+import { LandingYTComponent } from './landing-yt/landing-yt.component';
+import { TranscriptorYTComponent } from './transcriptor-yt/transcriptor-yt.component';
+import { TutorialYTComponent } from './tutorial-yt/tutorial-yt.component';
+import { PaginaEnConstruccionComponent } from './pagina-en-construccion/pagina-en-construccion.component';
 
 
 const rutas: Routes = [
   {path: '', component:LandingComponent},
-  {path: 'about', component:AboutComponent},
-  {path: 'contact', component:ContactComponent},
+  {path: 'twitter', component:LandingComponent},
+  {path: 'youtube', component:PaginaEnConstruccionComponent},
   {path: '**', component:PaginaErrorComponent}
 ];
 
@@ -28,10 +30,12 @@ const rutas: Routes = [
     FooterComponent,
     TranscriptorComponent,
     TutorialComponent,
-    AboutComponent,
-    ContactComponent,
     LandingComponent,
-    PaginaErrorComponent
+    PaginaErrorComponent,
+    LandingYTComponent,
+    TranscriptorYTComponent,
+    TutorialYTComponent,
+    PaginaEnConstruccionComponent
   ],
   imports: [
     BrowserModule,

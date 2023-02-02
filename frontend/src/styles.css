@@ -19,9 +19,9 @@ a {
 .texto-color-diferente{
   color: var(--color-secundario-letras);
 }
- body {
+ /* body {
     background-image: linear-gradient(#50546C, #2D254B, #12073D);
-  } 
+  }  */
 
 @keyframes movimiento-back{
   from{

@@ -21,15 +21,7 @@
     color: var(--color-letras);
     height: max-content;
 }
-.paso-tutorial h3{
-    font-size: 2.5em;
-}
-.paso-tutorial p{
-    font-size: 1.5em;
-    color: var(--color-terciario-letras);
-    padding-top: 10px;
-    
-}
+
 .paso-tutorial img{
     display: flex;
     align-self: center;
